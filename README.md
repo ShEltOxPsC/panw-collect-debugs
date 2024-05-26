@@ -1,5 +1,5 @@
 This script has been tested with python3. 
-Paramicon must be installed for SSH connection. 
+Paramiko must be installed for SSH connection. 
 
 Install paramiko using the command below
 pip install paramiko or pip3 install paramiko
