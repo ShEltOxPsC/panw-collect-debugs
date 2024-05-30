@@ -3,10 +3,10 @@ import paramiko
 import time
 
 # Device connection details
-hostname = '172.16.200.50'
+hostname = '192.168.1.1'
 port = 22
-username = 'sezgi'
-password = 'SheltoxKof1234!!'
+username = 'admin'
+password = 'password'
 
 def disable_pager_and_repeat_show_counters(repetitions, interval, output_file):
     # Create an SSH client
